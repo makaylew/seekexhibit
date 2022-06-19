@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://seekexhibit.com/images/se.jpg</loc>
+    <lastmod>2016-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://seekexhibit.com/images/seekexhibit-divided.jpg</loc>
+    <lastmod>2016-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://seekexhibit.com/images/seekexhibit-divided381x253.jpg</loc>
+    <lastmod>2016-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://seekexhibit.com/index.html</loc>
+    <lastmod>2016-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://seekexhibit.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://seekexhibit.com/tablet/index.html"/>
+  </url>
+  <url>
+    <loc>http://seekexhibit.com/seek.html</loc>
+    <lastmod>2016-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://seekexhibit.com/phone/seek.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://seekexhibit.com/tablet/seek.html"/>
+  </url>
+  <url>
+    <loc>http://seekexhibit.com/exhibit.html</loc>
+    <lastmod>2016-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://seekexhibit.com/phone/exhibit.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://seekexhibit.com/tablet/exhibit.html"/>
+  </url>
+  <url>
+    <loc>http://seekexhibit.com/about.html</loc>
+    <lastmod>2016-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://seekexhibit.com/phone/about.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://seekexhibit.com/tablet/about.html"/>
+  </url>
+  <url>
+    <loc>http://seekexhibit.com/faq.html</loc>
+    <lastmod>2016-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://seekexhibit.com/phone/faq.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://seekexhibit.com/tablet/faq.html"/>
+  </url>
+  <url>
+    <loc>http://seekexhibit.com/terms---conditions.html</loc>
+    <lastmod>2016-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://seekexhibit.com/tablet/terms---conditions.html"/>
+  </url>
+  <url>
+    <loc>http://seekexhibit.com/privacy.html</loc>
+    <lastmod>2016-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://seekexhibit.com/tablet/privacy.html"/>
+  </url>
+  <url>
+    <loc>http://seekexhibit.com/404.html</loc>
+    <lastmod>2016-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://seekexhibit.com/phone/404.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://seekexhibit.com/tablet/404.html"/>
+  </url>
+  <url>
+    <loc>http://seekexhibit.com/exhibit-2.html</loc>
+    <lastmod>2016-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://seekexhibit.com/phone/exhibit-2.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://seekexhibit.com/tablet/exhibit-2.html"/>
+  </url>
+  <url>
+    <loc>http://seekexhibit.com/contribute.html</loc>
+    <lastmod>2016-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://seekexhibit.com/phone/contribute.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://seekexhibit.com/tablet/contribute.html"/>
+  </url>
+</urlset>

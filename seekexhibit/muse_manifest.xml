@@ -1,0 +1,95 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="seekexhibit.com" resolutions="1x" timestamp="1454279594144">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master-no-ads.css" crc="292848464" ref="tablet>404:tablet>exhibit:tablet>contribute"/>
+      <file name="master_a-master.css" crc="399593626" ref="tablet>seek:tablet>exhibit-2:tablet>terms---conditions:tablet>faq:tablet>index:tablet>privacy:tablet>about"/>
+      <file name="seek.css" crc="69368194" ref="tablet>seek"/>
+      <file name="404.css" crc="18769600" ref="tablet>404"/>
+      <file name="exhibit-2.css" crc="4212791217" ref="tablet>exhibit-2"/>
+      <file name="terms---conditions.css" crc="3904974343" ref="tablet>terms---conditions"/>
+      <file name="exhibit.css" crc="407799632" ref="tablet>exhibit"/>
+      <file name="faq.css" crc="46240449" ref="tablet>faq"/>
+      <file name="index.css" crc="4200643370" ref="tablet>index"/>
+      <file name="privacy.css" crc="107304069" ref="tablet>privacy"/>
+      <file name="contribute.css" crc="129677910" ref="tablet>contribute"/>
+      <file name="about.css" crc="3766651238" ref="tablet>about"/>
+    </folder>
+    <file name="index.html" crc="138621408" seo="true" mt="1454277826711" redirect="true"/>
+    <file name="seek.html" crc="4119712699" seo="true" mt="1454277826878" redirect="true"/>
+    <file name="exhibit.html" crc="4080172117" seo="true" mt="1454277826961" redirect="true"/>
+    <file name="exhibit-2.html" crc="308973456" seo="true" mt="1454277827046" redirect="true"/>
+    <file name="contribute.html" crc="4156874159" seo="true" mt="1454277827128" redirect="true"/>
+    <file name="about.html" crc="205974186" seo="true" mt="1454277827214" redirect="true"/>
+    <file name="terms---conditions.html" crc="470571500" seo="true" mt="1454279553797" redirect="true"/>
+    <file name="faq.html" crc="392643659" seo="true" mt="1454277827376" redirect="true"/>
+    <file name="privacy.html" crc="4025730417" seo="true" mt="1454279556635" redirect="true"/>
+    <file name="404.html" crc="4018458505" seo="true" mt="1454278777479" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="161311741" ref="phone>seek:phone>exhibit-2:phone>faq:phone>index:phone>about"/>
+      <file name="master_a-master-no-ads.css" crc="75101878" ref="phone>exhibit:phone>contribute:phone>404"/>
+      <file name="exhibit.css" crc="4113626052" ref="phone>exhibit"/>
+      <file name="contribute.css" crc="4284388032" ref="phone>contribute"/>
+      <file name="seek.css" crc="298457785" ref="phone>seek"/>
+      <file name="exhibit-2.css" crc="22500560" ref="phone>exhibit-2"/>
+      <file name="faq.css" crc="3856549280" ref="phone>faq"/>
+      <file name="index.css" crc="4227304218" ref="phone>index"/>
+      <file name="about.css" crc="311964554" ref="phone>about"/>
+      <file name="404.css" crc="439449280" ref="phone>404"/>
+    </folder>
+    <file name="index.html" crc="4215075111" seo="true" mt="1454278805597" redirect="true"/>
+    <file name="seek.html" crc="245581712" seo="true" mt="1454278851330" redirect="true"/>
+    <file name="exhibit.html" crc="429401963" seo="true" mt="1454278967604" redirect="true"/>
+    <file name="exhibit-2.html" crc="3764516304" seo="true" mt="1454278805597" redirect="true"/>
+    <file name="contribute.html" crc="447509606" seo="true" mt="1454279155659" redirect="true"/>
+    <file name="about.html" crc="4028826015" seo="true" mt="1454279243011" redirect="true"/>
+    <file name="faq.html" crc="51546337" seo="true" mt="1454279281355" redirect="true"/>
+    <file name="404.html" crc="4167981155" seo="true" mt="1454278805647" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="405332437"/>
+    <file name="master_a-master.css" crc="3910392808" ref="index:faq:terms---conditions:about:seek:privacy:exhibit-2"/>
+    <file name="index.css" crc="185060849" ref="index"/>
+    <file name="faq.css" crc="3888583482" ref="faq"/>
+    <file name="terms---conditions.css" crc="499086582" ref="terms---conditions"/>
+    <file name="about.css" crc="220762543" ref="about"/>
+    <file name="exhibit.css" crc="3834381406" ref="exhibit"/>
+    <file name="seek.css" crc="11590725" ref="seek"/>
+    <file name="privacy.css" crc="4041713925" ref="privacy"/>
+    <file name="master_a-master-no-ads.css" crc="284042188" ref="404:exhibit:contribute"/>
+    <file name="404.css" crc="318176288" ref="404"/>
+    <file name="exhibit-2.css" crc="67500655" ref="exhibit-2"/>
+    <file name="contribute.css" crc="3923290200" ref="contribute"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:seek:exhibit:about:faq:terms---conditions:privacy:404:exhibit-2:contribute:phone>index:phone>seek:phone>exhibit:phone>exhibit-2:phone>contribute:phone>about:phone>faq:phone>404:tablet>index:tablet>seek:tablet>exhibit:tablet>exhibit-2:tablet>contribute:tablet>about:tablet>terms---conditions:tablet>faq:tablet>privacy:tablet>404"/>
+    <file name="museutils.js" crc="275725342" ref="index:seek:exhibit:about:faq:terms---conditions:privacy:404:exhibit-2:contribute:phone>index:phone>seek:phone>exhibit:phone>exhibit-2:phone>contribute:phone>about:phone>faq:phone>404:tablet>index:tablet>seek:tablet>exhibit:tablet>exhibit-2:tablet>contribute:tablet>about:tablet>terms---conditions:tablet>faq:tablet>privacy:tablet>404"/>
+    <file name="pie.js" crc="3827607177" ref="index:about:faq:terms---conditions:privacy:404:phone>about:tablet>index:tablet>about:tablet>404"/>
+    <file name="webpro.js" crc="3883484123" ref="index:404:tablet>index:tablet>404"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index:404:tablet>index:tablet>404"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index:404:tablet>index:tablet>404"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index:404:tablet>index:tablet>404"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:seek:exhibit:about:faq:terms---conditions:privacy:404:exhibit-2:contribute:phone>index:phone>seek:phone>exhibit:phone>exhibit-2:phone>contribute:phone>about:phone>faq:phone>404:tablet>index:tablet>seek:tablet>exhibit:tablet>exhibit-2:tablet>contribute:tablet>about:tablet>terms---conditions:tablet>faq:tablet>privacy:tablet>404"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:seek:exhibit:about:faq:terms---conditions:privacy:404:exhibit-2:contribute:phone>index:phone>seek:phone>exhibit:phone>exhibit-2:phone>contribute:phone>about:phone>faq:phone>404:tablet>index:tablet>seek:tablet>exhibit:tablet>exhibit-2:tablet>contribute:tablet>about:tablet>terms---conditions:tablet>faq:tablet>privacy:tablet>404"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:seek:exhibit:about:faq:terms---conditions:privacy:404:exhibit-2:contribute:phone>index:phone>seek:phone>exhibit:phone>exhibit-2:phone>contribute:phone>about:phone>faq:phone>404:tablet>index:tablet>seek:tablet>exhibit:tablet>exhibit-2:tablet>contribute:tablet>about:tablet>terms---conditions:tablet>faq:tablet>privacy:tablet>404"/>
+    <file name="museredirect.js" crc="3899419633" ref="tablet>index:tablet>seek:tablet>exhibit:tablet>exhibit-2:tablet>contribute:tablet>about:tablet>terms---conditions:tablet>faq:tablet>privacy:tablet>404:index:seek:exhibit:about:faq:terms---conditions:privacy:404:exhibit-2:contribute"/>
+  </folder>
+  <folder name="images">
+    <file name="se.jpg" crc="29463246" seo="true" ref="index:seek:exhibit:about:faq:terms---conditions:privacy:404:exhibit-2:contribute:phone>index:phone>seek:phone>exhibit:phone>exhibit-2:phone>contribute:phone>about:phone>faq:phone>404:tablet>index:tablet>seek:tablet>exhibit:tablet>exhibit-2:tablet>contribute:tablet>about:tablet>terms---conditions:tablet>faq:tablet>privacy:tablet>404"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index:exhibit"/>
+    <file name="seekexhibit-divided.jpg" crc="4175598932" seo="true" ref="index:404:tablet>index:tablet>404"/>
+    <file name="favicon.ico" crc="4208427245" ref="phone>index"/>
+    <file name="seekexhibit-divided381x253.jpg" crc="3865122401" seo="true" ref="phone>index"/>
+  </folder>
+  <file name="index.html" crc="4294182452" seo="true" mt="1454277827527" redirect="true"/>
+  <file name="seek.html" crc="272643300" seo="true" mt="1454277827528" redirect="true"/>
+  <file name="exhibit.html" crc="496220726" seo="true" mt="1454277827529" redirect="true"/>
+  <file name="about.html" crc="4134263244" seo="true" mt="1454277827530" redirect="true"/>
+  <file name="faq.html" crc="4115742184" seo="true" mt="1454277827531" redirect="true"/>
+  <file name="terms---conditions.html" crc="3798495379" seo="true" mt="1454279553794" redirect="true"/>
+  <file name="privacy.html" crc="398482128" seo="true" mt="1454279556632" redirect="true"/>
+  <file name="404.html" crc="144314318" seo="true" mt="1454278777477" redirect="true"/>
+  <file name="exhibit-2.html" crc="304895038" seo="true" mt="1454277827535" redirect="true"/>
+  <file name="contribute.html" crc="3808364672" seo="true" mt="1454277827536" redirect="true"/>
+</manifest>
